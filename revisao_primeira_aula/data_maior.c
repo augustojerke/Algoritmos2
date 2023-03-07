@@ -34,7 +34,8 @@ int main ()
 		else if(mes2>mes1){
 			printf("Data 2 maior");
 		}
-		else{
+		else
+		{
 			if(dia1>dia2)
 			{
 				printf("Data 1 maior");
@@ -43,7 +44,8 @@ int main ()
 			{
 				printf("Data 2 maior");
 			}
-			else{
+			else
+			{
 				printf("Datas iguais");
 			}
 		}
